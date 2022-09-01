@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.entities;
 
 public class Singleton{
     private static Singleton instance = null;
